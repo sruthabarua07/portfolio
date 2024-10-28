@@ -13,10 +13,11 @@ html{
   text-transform: capitalize;
   text-shadow:1px 1px #000000;
   font-family:cursive;
-  height:190px;
+  height:230px;
   text-align: right;
   text-size-adjust: 48px;
 }
 body{
   color: #ff1414;
+  size: 40px;
 }
