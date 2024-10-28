@@ -4,19 +4,19 @@ html{
   color: #f50000;
 }
 .banner{
-  background-color: purple;
+  background-color: #6431f2;
   margin: 15px;
   padding: 10px;
-  border: 3px solid skyblue;
-  box-shadow: 5px 5px 5px 5px #ffffff ;
-  outline:10px 10px orange groove;
+  border: 3px solid #04adf6;
+  box-shadow: 5px 5px 5px 5px #00aaff ;
+  outline:10px 10px red groove;
   text-transform: capitalize;
   text-shadow:1px 1px #000000;
   font-family:cursive;
-  height:250px;
+  height:190px;
   text-align: right;
   text-size-adjust: 48px;
 }
 body{
-  color: #14fbff;
+  color: #ff1414;
 }
